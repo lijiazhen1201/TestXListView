@@ -6,7 +6,7 @@
  */
 package com.zhenmei.testxlistview.view;
 
-import me.maxwin.R;
+
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.Gravity;
@@ -18,6 +18,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import com.zhenmei.testxlistview.R;
 
 public class XListViewHeader extends LinearLayout {
 	private LinearLayout mContainer;
